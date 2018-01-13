@@ -1,0 +1,38 @@
+﻿Build started 23-Nov-17 2:56:08 PM.
+     1>Project "C:\Users\Hitaishi\Documents\Visual Studio 2010\Projects\First app\First app\First app.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\First app.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         E:\visual studio\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\First app.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt "First app.cpp" Form2.cpp /clr:nostdlib 
+         First app.cpp
+         Form2.cpp
+         Generating Code...
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         E:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hitaishi\Documents\Visual Studio 2010\Projects\First app\Debug\First app.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Firstapp.Form1.resources /ASSEMBLYRESOURCE:Debug\Firstapp.Form2.resources /ASSEMBLYRESOURCE:Debug\Firstapp.Form3.resources /ASSEMBLYRESOURCE:Debug\Firstapp.Form4.resources /ASSEMBLYRESOURCE:Debug\Firstapp.Form5.resources /MANIFEST /ManifestFile:"Debug\First app.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Hitaishi\Documents\Visual Studio 2010\Projects\First app\Debug\First app.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         "Debug\First app.obj"
+         Debug\Form2.obj
+         Debug\Form3.obj
+         Debug\Form4.obj
+         Debug\Form5.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         First app.vcxproj -> C:\Users\Hitaishi\Documents\Visual Studio 2010\Projects\First app\Debug\First app.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Hitaishi\Documents\Visual Studio 2010\Projects\First app\Debug\First app.exe;#1" /manifest "Debug\First app.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\First app.unsuccessfulbuild".
+         Touching "Debug\First app.lastbuildstate".
+     1>Done Building Project "C:\Users\Hitaishi\Documents\Visual Studio 2010\Projects\First app\First app\First app.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.15
